@@ -1,0 +1,15 @@
+# Data (large, and shouldn't be duplicated in git - reference it, don't commit it)
+data_raw/*.csv
+*.zip
+
+# MLflow tracking data (can get large fast with many runs)
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
