@@ -13,3 +13,5 @@ __pycache__/
 # Environment
 .env
 venv/
+models/distilbert_checkpoints/
+models/distilbert_ticket_type/
