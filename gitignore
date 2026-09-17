@@ -59,3 +59,13 @@ echo capstone_app/data_raw/ >> .gitignore
 echo capstone_app/data_processed/ >> .gitignore
 echo capstone_app/mlruns/ >> .gitignore
 echo capstone_app/models/ >> .gitignore
+
+capstone_app/models/
+capstone_app/data_processed/
+capstone_app/data_raw/
+data_processed/
+models/
+mlruns/
+save_shap_plots.py
+test_distilbert.py
+pages_new/
