@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/716883961315083231/2c448102d9174d238b599da7eef645f6/artifacts
+end_time: 1789282579518
+entry_point_name: ''
+experiment_id: '716883961315083231'
+lifecycle_stage: active
+run_id: 2c448102d9174d238b599da7eef645f6
+run_name: time_to_resolution_xgboost
+run_uuid: 2c448102d9174d238b599da7eef645f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789282559924
+status: 3
+tags: []
+user_id: Nayeem

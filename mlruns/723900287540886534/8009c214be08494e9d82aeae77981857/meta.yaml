@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/723900287540886534/8009c214be08494e9d82aeae77981857/artifacts
+end_time: 1788507028689
+entry_point_name: ''
+experiment_id: '723900287540886534'
+lifecycle_stage: active
+run_id: 8009c214be08494e9d82aeae77981857
+run_name: decision_tree_ticket_priority_baseline
+run_uuid: 8009c214be08494e9d82aeae77981857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788507025514
+status: 3
+tags: []
+user_id: Nayeem

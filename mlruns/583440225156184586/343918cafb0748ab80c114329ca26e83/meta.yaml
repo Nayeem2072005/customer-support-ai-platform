@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/583440225156184586/343918cafb0748ab80c114329ca26e83/artifacts
+end_time: 1789281959267
+entry_point_name: ''
+experiment_id: '583440225156184586'
+lifecycle_stage: active
+run_id: 343918cafb0748ab80c114329ca26e83
+run_name: kmeans_k7
+run_uuid: 343918cafb0748ab80c114329ca26e83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789281959057
+status: 3
+tags: []
+user_id: Nayeem

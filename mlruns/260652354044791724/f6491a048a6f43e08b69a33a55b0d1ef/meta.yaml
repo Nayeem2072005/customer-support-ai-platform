@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/260652354044791724/f6491a048a6f43e08b69a33a55b0d1ef/artifacts
+end_time: 1789030591133
+entry_point_name: ''
+experiment_id: '260652354044791724'
+lifecycle_stage: active
+run_id: f6491a048a6f43e08b69a33a55b0d1ef
+run_name: xgboost_ticket_type_optuna_tuned
+run_uuid: f6491a048a6f43e08b69a33a55b0d1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789030539191
+status: 3
+tags: []
+user_id: Nayeem

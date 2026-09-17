@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/260652354044791724/307925a024b244c3b026e9f7157c3e6e/artifacts
+end_time: 1789032638709
+entry_point_name: ''
+experiment_id: '260652354044791724'
+lifecycle_stage: active
+run_id: 307925a024b244c3b026e9f7157c3e6e
+run_name: lightgbm_ticket_priority_optuna_tuned
+run_uuid: 307925a024b244c3b026e9f7157c3e6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789032628651
+status: 3
+tags: []
+user_id: Nayeem

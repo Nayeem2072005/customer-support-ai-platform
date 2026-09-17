@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/260652354044791724/6c8a4e8a24e145409cba8cf7e559416e/artifacts
+end_time: 1789031386362
+entry_point_name: ''
+experiment_id: '260652354044791724'
+lifecycle_stage: active
+run_id: 6c8a4e8a24e145409cba8cf7e559416e
+run_name: random_forest_ticket_type
+run_uuid: 6c8a4e8a24e145409cba8cf7e559416e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789031373051
+status: 3
+tags: []
+user_id: Nayeem

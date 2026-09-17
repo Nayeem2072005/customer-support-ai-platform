@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/403405341639653148/95df8cc89e4e4c0c83b1c581c57c8e0c/artifacts
+end_time: 1789122968256
+entry_point_name: ''
+experiment_id: '403405341639653148'
+lifecycle_stage: active
+run_id: 95df8cc89e4e4c0c83b1c581c57c8e0c
+run_name: bilstm_glove_ticket_type
+run_uuid: 95df8cc89e4e4c0c83b1c581c57c8e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789122955541
+status: 3
+tags: []
+user_id: Nayeem

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/723900287540886534/31f24ccfa6f74b668b95080c77cf6f93/artifacts
+end_time: 1788507403218
+entry_point_name: ''
+experiment_id: '723900287540886534'
+lifecycle_stage: active
+run_id: 31f24ccfa6f74b668b95080c77cf6f93
+run_name: naive_bayes_ticket_type_baseline
+run_uuid: 31f24ccfa6f74b668b95080c77cf6f93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788507399658
+status: 3
+tags: []
+user_id: Nayeem
