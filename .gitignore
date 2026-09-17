@@ -1,17 +1,71 @@
-# Data (large, and shouldn't be duplicated in git - reference it, don't commit it)
-data_raw/*.csv
-*.zip
-
-# MLflow tracking data (can get large fast with many runs)
-mlruns/
-
-# Python
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-
-# Environment
-.env
+# ── Virtual Environment ──────────────────────────────────────
 venv/
-models/distilbert_checkpoints/
-models/distilbert_ticket_type/
+.venv/
+env/
+ENV/
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Large data/model files ───────────────────────────────────
+data_raw/glove.6B.zip
+*.zip
+*.tar.gz
+*.pth
+
+# ── Environment variables ─────────────────────────────────────
+.env
+.env.*
+*.env
+
+# ── OS files ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs ─────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# ── MLflow (keep mlruns but ignore artifacts) ─────────────────
+mlruns/.trash/
+
+# ── Temp scripts ─────────────────────────────────────────────
+save_shap_plots.py
+test_distilbert.py
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+
+echo models/distilbert_ticket_type/ >> .gitignore
+echo models/bilstm_glove_model.pth >> .gitignore
+echo models/word2vec_model.model >> .gitignore
+echo data_raw/ >> .gitignore
+echo capstone_app/data_raw/ >> .gitignore
+echo capstone_app/data_processed/ >> .gitignore
+echo capstone_app/mlruns/ >> .gitignore
+echo capstone_app/models/ >> .gitignore
+
+capstone_app/models/
+capstone_app/data_processed/
+capstone_app/data_raw/
+data_processed/
+models/
+mlruns/
+save_shap_plots.py
+test_distilbert.py
+pages_new/
