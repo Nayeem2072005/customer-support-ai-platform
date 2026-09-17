@@ -50,3 +50,12 @@ test_distilbert.py
 # ── Logs ─────────────────────────────────────────────────────
 *.log
 logs/
+
+echo models/distilbert_ticket_type/ >> .gitignore
+echo models/bilstm_glove_model.pth >> .gitignore
+echo models/word2vec_model.model >> .gitignore
+echo data_raw/ >> .gitignore
+echo capstone_app/data_raw/ >> .gitignore
+echo capstone_app/data_processed/ >> .gitignore
+echo capstone_app/mlruns/ >> .gitignore
+echo capstone_app/models/ >> .gitignore
