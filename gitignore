@@ -1,0 +1,52 @@
+# ── Virtual Environment ──────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Large data/model files ───────────────────────────────────
+data_raw/glove.6B.zip
+*.zip
+*.tar.gz
+*.pth
+
+# ── Environment variables ─────────────────────────────────────
+.env
+.env.*
+*.env
+
+# ── OS files ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs ─────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# ── MLflow (keep mlruns but ignore artifacts) ─────────────────
+mlruns/.trash/
+
+# ── Temp scripts ─────────────────────────────────────────────
+save_shap_plots.py
+test_distilbert.py
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
