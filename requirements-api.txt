@@ -1,0 +1,20 @@
+# Runtime dependencies of the inference API only (api/main.py + src/preprocessing.py).
+# Versions are the ones the models were trained and tested with (project venv).
+# torch: the Dockerfile installs the CPU-only build (2.11.0+cpu) first, which
+# satisfies the pin below; a plain `pip install -r` elsewhere gets the default build.
+fastapi==0.112.0
+uvicorn==0.30.5
+pydantic==2.13.5
+joblib==1.4.2
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.1
+lightgbm==4.5.0
+xgboost==2.1.0
+nltk==3.8.1
+textblob==0.18.0.post0
+torch==2.11.0
+transformers==4.44.0
+tokenizers==0.19.1
+safetensors==0.4.5
+huggingface_hub==0.24.7

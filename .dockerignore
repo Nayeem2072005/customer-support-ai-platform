@@ -1,0 +1,18 @@
+# Whitelist approach: ignore everything, then allow only what the API image needs.
+*
+!api/
+!src/
+!models/
+!requirements-api.txt
+
+# Inside models/, keep out everything the API does not use.
+models/distilbert_checkpoints/
+models/*.pth
+models/*.model
+models/bilstm_vocab.json
+# The 268 MB weights are always downloaded from the Hugging Face Hub during the
+# build, so a local build and a fresh-clone build give the same image.
+models/distilbert_ticket_type/model.safetensors
+
+**/__pycache__/
+**/*.pyc
