@@ -22,9 +22,15 @@ for resource in ["stopwords", "wordnet", "punkt", "punkt_tab"]:
         nltk.data.find(f"tokenizers/{resource}" if "punkt" in resource else f"corpora/{resource}")
     except LookupError:
         nltk.download(resource, quiet=True)
+    except OSError:
+        # NLTK 3.8.1 bug: when the punkt_tab folder already exists, find()
+        # rewrites its path to ".../punkt/PY3_tab" and raises OSError.
+        # Reaching this error means the data IS present - nothing to download.
+        pass
 
 STOP_WORDS = set(stopwords.words("english"))
 LEMMATIZER = WordNetLemmatizer()
+
 
 
 def clean_text(text: str) -> str:
