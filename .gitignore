@@ -56,9 +56,19 @@ capstone_app/models/
 capstone_app/data_processed/
 capstone_app/data_raw/
 data_processed/
-models/
+models/*
 save_shap_plots.py
 test_distilbert.py
 pages_new/
 
 capstone_app/mlruns/
+
+!models/label_encoders.joblib
+!models/tfidf_vectorizer_ensemble.joblib
+!models/tfidf_vectorizer_leakage_free.joblib
+!models/priority_lightgbm.joblib
+!models/resolution_time_xgboost.joblib
+!models/kmeans_scaler.joblib
+!models/kmeans_segmentation.joblib
+!models/distilbert_ticket_type/
+models/distilbert_ticket_type/*.safetensors
