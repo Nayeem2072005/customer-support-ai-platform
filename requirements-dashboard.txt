@@ -1,0 +1,9 @@
+# Streamlit dashboard. Install AFTER requirements.txt, in the same environment:
+#     pip install -r requirements.txt
+#     pip install -r requirements-dashboard.txt
+#
+# pip prints a warning that streamlit 1.64.0 "requires starlette>=0.46" while
+# fastapi 0.112.0 pins starlette 0.37.2. The warning is harmless: Streamlit's
+# default server does not use starlette (checked: app starts, health check ok).
+# It is kept in a separate file because pip cannot resolve both in one file.
+streamlit==1.64.0
