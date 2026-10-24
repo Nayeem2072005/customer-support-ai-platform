@@ -1,0 +1,6 @@
+# Dashboard-only dependencies (used by the web host; the full project list is ../requirements.txt).
+dash==2.18.2
+plotly==5.23.0
+pandas==2.2.2
+numpy==1.26.4
+gunicorn==23.0.0

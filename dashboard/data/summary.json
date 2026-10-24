@@ -1,0 +1,1321 @@
+{
+ "kpis": {
+  "total_tickets": 8469,
+  "closed_tickets": 2769,
+  "rated_tickets": 2769,
+  "mean_csat": 2.99,
+  "ticket_types": 5,
+  "channels": 4,
+  "tickets_with_first_response": 5650,
+  "first_response_first_day": "2023-05-31",
+  "first_response_last_day": "2023-06-02",
+  "closed_with_both_timestamps": 2769,
+  "pct_resolved_before_first_response": 49.3
+ },
+ "volume_by_type": [
+  {
+   "label": "Refund request",
+   "tickets": 1752
+  },
+  {
+   "label": "Technical issue",
+   "tickets": 1747
+  },
+  {
+   "label": "Cancellation request",
+   "tickets": 1695
+  },
+  {
+   "label": "Product inquiry",
+   "tickets": 1641
+  },
+  {
+   "label": "Billing inquiry",
+   "tickets": 1634
+  }
+ ],
+ "volume_by_priority": [
+  {
+   "label": "Medium",
+   "tickets": 2192
+  },
+  {
+   "label": "Critical",
+   "tickets": 2129
+  },
+  {
+   "label": "High",
+   "tickets": 2085
+  },
+  {
+   "label": "Low",
+   "tickets": 2063
+  }
+ ],
+ "volume_by_status": [
+  {
+   "label": "Pending Customer Response",
+   "tickets": 2881
+  },
+  {
+   "label": "Open",
+   "tickets": 2819
+  },
+  {
+   "label": "Closed",
+   "tickets": 2769
+  }
+ ],
+ "volume_by_channel": [
+  {
+   "label": "Email",
+   "tickets": 2143
+  },
+  {
+   "label": "Phone",
+   "tickets": 2132
+  },
+  {
+   "label": "Social media",
+   "tickets": 2121
+  },
+  {
+   "label": "Chat",
+   "tickets": 2073
+  }
+ ],
+ "volume_trend": [
+  {
+   "hour": "2023-05-31 21:00",
+   "type": "Technical issue",
+   "tickets": 1
+  },
+  {
+   "hour": "2023-05-31 22:00",
+   "type": "Billing inquiry",
+   "tickets": 11
+  },
+  {
+   "hour": "2023-05-31 22:00",
+   "type": "Cancellation request",
+   "tickets": 9
+  },
+  {
+   "hour": "2023-05-31 22:00",
+   "type": "Product inquiry",
+   "tickets": 5
+  },
+  {
+   "hour": "2023-05-31 22:00",
+   "type": "Refund request",
+   "tickets": 13
+  },
+  {
+   "hour": "2023-05-31 22:00",
+   "type": "Technical issue",
+   "tickets": 11
+  },
+  {
+   "hour": "2023-05-31 23:00",
+   "type": "Billing inquiry",
+   "tickets": 20
+  },
+  {
+   "hour": "2023-05-31 23:00",
+   "type": "Cancellation request",
+   "tickets": 22
+  },
+  {
+   "hour": "2023-05-31 23:00",
+   "type": "Product inquiry",
+   "tickets": 19
+  },
+  {
+   "hour": "2023-05-31 23:00",
+   "type": "Refund request",
+   "tickets": 27
+  },
+  {
+   "hour": "2023-05-31 23:00",
+   "type": "Technical issue",
+   "tickets": 37
+  },
+  {
+   "hour": "2023-06-01 00:00",
+   "type": "Billing inquiry",
+   "tickets": 39
+  },
+  {
+   "hour": "2023-06-01 00:00",
+   "type": "Cancellation request",
+   "tickets": 45
+  },
+  {
+   "hour": "2023-06-01 00:00",
+   "type": "Product inquiry",
+   "tickets": 30
+  },
+  {
+   "hour": "2023-06-01 00:00",
+   "type": "Refund request",
+   "tickets": 36
+  },
+  {
+   "hour": "2023-06-01 00:00",
+   "type": "Technical issue",
+   "tickets": 52
+  },
+  {
+   "hour": "2023-06-01 01:00",
+   "type": "Billing inquiry",
+   "tickets": 43
+  },
+  {
+   "hour": "2023-06-01 01:00",
+   "type": "Cancellation request",
+   "tickets": 44
+  },
+  {
+   "hour": "2023-06-01 01:00",
+   "type": "Product inquiry",
+   "tickets": 53
+  },
+  {
+   "hour": "2023-06-01 01:00",
+   "type": "Refund request",
+   "tickets": 54
+  },
+  {
+   "hour": "2023-06-01 01:00",
+   "type": "Technical issue",
+   "tickets": 45
+  },
+  {
+   "hour": "2023-06-01 02:00",
+   "type": "Billing inquiry",
+   "tickets": 55
+  },
+  {
+   "hour": "2023-06-01 02:00",
+   "type": "Cancellation request",
+   "tickets": 61
+  },
+  {
+   "hour": "2023-06-01 02:00",
+   "type": "Product inquiry",
+   "tickets": 55
+  },
+  {
+   "hour": "2023-06-01 02:00",
+   "type": "Refund request",
+   "tickets": 38
+  },
+  {
+   "hour": "2023-06-01 02:00",
+   "type": "Technical issue",
+   "tickets": 44
+  },
+  {
+   "hour": "2023-06-01 03:00",
+   "type": "Billing inquiry",
+   "tickets": 44
+  },
+  {
+   "hour": "2023-06-01 03:00",
+   "type": "Cancellation request",
+   "tickets": 34
+  },
+  {
+   "hour": "2023-06-01 03:00",
+   "type": "Product inquiry",
+   "tickets": 45
+  },
+  {
+   "hour": "2023-06-01 03:00",
+   "type": "Refund request",
+   "tickets": 42
+  },
+  {
+   "hour": "2023-06-01 03:00",
+   "type": "Technical issue",
+   "tickets": 41
+  },
+  {
+   "hour": "2023-06-01 04:00",
+   "type": "Billing inquiry",
+   "tickets": 43
+  },
+  {
+   "hour": "2023-06-01 04:00",
+   "type": "Cancellation request",
+   "tickets": 51
+  },
+  {
+   "hour": "2023-06-01 04:00",
+   "type": "Product inquiry",
+   "tickets": 55
+  },
+  {
+   "hour": "2023-06-01 04:00",
+   "type": "Refund request",
+   "tickets": 53
+  },
+  {
+   "hour": "2023-06-01 04:00",
+   "type": "Technical issue",
+   "tickets": 41
+  },
+  {
+   "hour": "2023-06-01 05:00",
+   "type": "Billing inquiry",
+   "tickets": 41
+  },
+  {
+   "hour": "2023-06-01 05:00",
+   "type": "Cancellation request",
+   "tickets": 48
+  },
+  {
+   "hour": "2023-06-01 05:00",
+   "type": "Product inquiry",
+   "tickets": 49
+  },
+  {
+   "hour": "2023-06-01 05:00",
+   "type": "Refund request",
+   "tickets": 61
+  },
+  {
+   "hour": "2023-06-01 05:00",
+   "type": "Technical issue",
+   "tickets": 48
+  },
+  {
+   "hour": "2023-06-01 06:00",
+   "type": "Billing inquiry",
+   "tickets": 51
+  },
+  {
+   "hour": "2023-06-01 06:00",
+   "type": "Cancellation request",
+   "tickets": 59
+  },
+  {
+   "hour": "2023-06-01 06:00",
+   "type": "Product inquiry",
+   "tickets": 42
+  },
+  {
+   "hour": "2023-06-01 06:00",
+   "type": "Refund request",
+   "tickets": 46
+  },
+  {
+   "hour": "2023-06-01 06:00",
+   "type": "Technical issue",
+   "tickets": 38
+  },
+  {
+   "hour": "2023-06-01 07:00",
+   "type": "Billing inquiry",
+   "tickets": 49
+  },
+  {
+   "hour": "2023-06-01 07:00",
+   "type": "Cancellation request",
+   "tickets": 46
+  },
+  {
+   "hour": "2023-06-01 07:00",
+   "type": "Product inquiry",
+   "tickets": 49
+  },
+  {
+   "hour": "2023-06-01 07:00",
+   "type": "Refund request",
+   "tickets": 47
+  },
+  {
+   "hour": "2023-06-01 07:00",
+   "type": "Technical issue",
+   "tickets": 51
+  },
+  {
+   "hour": "2023-06-01 08:00",
+   "type": "Billing inquiry",
+   "tickets": 45
+  },
+  {
+   "hour": "2023-06-01 08:00",
+   "type": "Cancellation request",
+   "tickets": 44
+  },
+  {
+   "hour": "2023-06-01 08:00",
+   "type": "Product inquiry",
+   "tickets": 37
+  },
+  {
+   "hour": "2023-06-01 08:00",
+   "type": "Refund request",
+   "tickets": 49
+  },
+  {
+   "hour": "2023-06-01 08:00",
+   "type": "Technical issue",
+   "tickets": 50
+  },
+  {
+   "hour": "2023-06-01 09:00",
+   "type": "Billing inquiry",
+   "tickets": 44
+  },
+  {
+   "hour": "2023-06-01 09:00",
+   "type": "Cancellation request",
+   "tickets": 33
+  },
+  {
+   "hour": "2023-06-01 09:00",
+   "type": "Product inquiry",
+   "tickets": 47
+  },
+  {
+   "hour": "2023-06-01 09:00",
+   "type": "Refund request",
+   "tickets": 49
+  },
+  {
+   "hour": "2023-06-01 09:00",
+   "type": "Technical issue",
+   "tickets": 48
+  },
+  {
+   "hour": "2023-06-01 10:00",
+   "type": "Billing inquiry",
+   "tickets": 41
+  },
+  {
+   "hour": "2023-06-01 10:00",
+   "type": "Cancellation request",
+   "tickets": 57
+  },
+  {
+   "hour": "2023-06-01 10:00",
+   "type": "Product inquiry",
+   "tickets": 49
+  },
+  {
+   "hour": "2023-06-01 10:00",
+   "type": "Refund request",
+   "tickets": 33
+  },
+  {
+   "hour": "2023-06-01 10:00",
+   "type": "Technical issue",
+   "tickets": 39
+  },
+  {
+   "hour": "2023-06-01 11:00",
+   "type": "Billing inquiry",
+   "tickets": 36
+  },
+  {
+   "hour": "2023-06-01 11:00",
+   "type": "Cancellation request",
+   "tickets": 52
+  },
+  {
+   "hour": "2023-06-01 11:00",
+   "type": "Product inquiry",
+   "tickets": 59
+  },
+  {
+   "hour": "2023-06-01 11:00",
+   "type": "Refund request",
+   "tickets": 61
+  },
+  {
+   "hour": "2023-06-01 11:00",
+   "type": "Technical issue",
+   "tickets": 52
+  },
+  {
+   "hour": "2023-06-01 12:00",
+   "type": "Billing inquiry",
+   "tickets": 47
+  },
+  {
+   "hour": "2023-06-01 12:00",
+   "type": "Cancellation request",
+   "tickets": 43
+  },
+  {
+   "hour": "2023-06-01 12:00",
+   "type": "Product inquiry",
+   "tickets": 39
+  },
+  {
+   "hour": "2023-06-01 12:00",
+   "type": "Refund request",
+   "tickets": 60
+  },
+  {
+   "hour": "2023-06-01 12:00",
+   "type": "Technical issue",
+   "tickets": 41
+  },
+  {
+   "hour": "2023-06-01 13:00",
+   "type": "Billing inquiry",
+   "tickets": 25
+  },
+  {
+   "hour": "2023-06-01 13:00",
+   "type": "Cancellation request",
+   "tickets": 40
+  },
+  {
+   "hour": "2023-06-01 13:00",
+   "type": "Product inquiry",
+   "tickets": 37
+  },
+  {
+   "hour": "2023-06-01 13:00",
+   "type": "Refund request",
+   "tickets": 45
+  },
+  {
+   "hour": "2023-06-01 13:00",
+   "type": "Technical issue",
+   "tickets": 52
+  },
+  {
+   "hour": "2023-06-01 14:00",
+   "type": "Billing inquiry",
+   "tickets": 50
+  },
+  {
+   "hour": "2023-06-01 14:00",
+   "type": "Cancellation request",
+   "tickets": 38
+  },
+  {
+   "hour": "2023-06-01 14:00",
+   "type": "Product inquiry",
+   "tickets": 54
+  },
+  {
+   "hour": "2023-06-01 14:00",
+   "type": "Refund request",
+   "tickets": 45
+  },
+  {
+   "hour": "2023-06-01 14:00",
+   "type": "Technical issue",
+   "tickets": 47
+  },
+  {
+   "hour": "2023-06-01 15:00",
+   "type": "Billing inquiry",
+   "tickets": 55
+  },
+  {
+   "hour": "2023-06-01 15:00",
+   "type": "Cancellation request",
+   "tickets": 38
+  },
+  {
+   "hour": "2023-06-01 15:00",
+   "type": "Product inquiry",
+   "tickets": 54
+  },
+  {
+   "hour": "2023-06-01 15:00",
+   "type": "Refund request",
+   "tickets": 49
+  },
+  {
+   "hour": "2023-06-01 15:00",
+   "type": "Technical issue",
+   "tickets": 57
+  },
+  {
+   "hour": "2023-06-01 16:00",
+   "type": "Billing inquiry",
+   "tickets": 49
+  },
+  {
+   "hour": "2023-06-01 16:00",
+   "type": "Cancellation request",
+   "tickets": 44
+  },
+  {
+   "hour": "2023-06-01 16:00",
+   "type": "Product inquiry",
+   "tickets": 39
+  },
+  {
+   "hour": "2023-06-01 16:00",
+   "type": "Refund request",
+   "tickets": 39
+  },
+  {
+   "hour": "2023-06-01 16:00",
+   "type": "Technical issue",
+   "tickets": 36
+  },
+  {
+   "hour": "2023-06-01 17:00",
+   "type": "Billing inquiry",
+   "tickets": 39
+  },
+  {
+   "hour": "2023-06-01 17:00",
+   "type": "Cancellation request",
+   "tickets": 46
+  },
+  {
+   "hour": "2023-06-01 17:00",
+   "type": "Product inquiry",
+   "tickets": 34
+  },
+  {
+   "hour": "2023-06-01 17:00",
+   "type": "Refund request",
+   "tickets": 63
+  },
+  {
+   "hour": "2023-06-01 17:00",
+   "type": "Technical issue",
+   "tickets": 52
+  },
+  {
+   "hour": "2023-06-01 18:00",
+   "type": "Billing inquiry",
+   "tickets": 50
+  },
+  {
+   "hour": "2023-06-01 18:00",
+   "type": "Cancellation request",
+   "tickets": 42
+  },
+  {
+   "hour": "2023-06-01 18:00",
+   "type": "Product inquiry",
+   "tickets": 55
+  },
+  {
+   "hour": "2023-06-01 18:00",
+   "type": "Refund request",
+   "tickets": 41
+  },
+  {
+   "hour": "2023-06-01 18:00",
+   "type": "Technical issue",
+   "tickets": 45
+  },
+  {
+   "hour": "2023-06-01 19:00",
+   "type": "Billing inquiry",
+   "tickets": 52
+  },
+  {
+   "hour": "2023-06-01 19:00",
+   "type": "Cancellation request",
+   "tickets": 56
+  },
+  {
+   "hour": "2023-06-01 19:00",
+   "type": "Product inquiry",
+   "tickets": 61
+  },
+  {
+   "hour": "2023-06-01 19:00",
+   "type": "Refund request",
+   "tickets": 60
+  },
+  {
+   "hour": "2023-06-01 19:00",
+   "type": "Technical issue",
+   "tickets": 63
+  },
+  {
+   "hour": "2023-06-01 20:00",
+   "type": "Billing inquiry",
+   "tickets": 50
+  },
+  {
+   "hour": "2023-06-01 20:00",
+   "type": "Cancellation request",
+   "tickets": 45
+  },
+  {
+   "hour": "2023-06-01 20:00",
+   "type": "Product inquiry",
+   "tickets": 28
+  },
+  {
+   "hour": "2023-06-01 20:00",
+   "type": "Refund request",
+   "tickets": 50
+  },
+  {
+   "hour": "2023-06-01 20:00",
+   "type": "Technical issue",
+   "tickets": 50
+  },
+  {
+   "hour": "2023-06-01 21:00",
+   "type": "Billing inquiry",
+   "tickets": 50
+  },
+  {
+   "hour": "2023-06-01 21:00",
+   "type": "Cancellation request",
+   "tickets": 52
+  },
+  {
+   "hour": "2023-06-01 21:00",
+   "type": "Product inquiry",
+   "tickets": 46
+  },
+  {
+   "hour": "2023-06-01 21:00",
+   "type": "Refund request",
+   "tickets": 50
+  },
+  {
+   "hour": "2023-06-01 21:00",
+   "type": "Technical issue",
+   "tickets": 45
+  },
+  {
+   "hour": "2023-06-01 22:00",
+   "type": "Billing inquiry",
+   "tickets": 33
+  },
+  {
+   "hour": "2023-06-01 22:00",
+   "type": "Cancellation request",
+   "tickets": 39
+  },
+  {
+   "hour": "2023-06-01 22:00",
+   "type": "Product inquiry",
+   "tickets": 44
+  },
+  {
+   "hour": "2023-06-01 22:00",
+   "type": "Refund request",
+   "tickets": 52
+  },
+  {
+   "hour": "2023-06-01 22:00",
+   "type": "Technical issue",
+   "tickets": 32
+  },
+  {
+   "hour": "2023-06-01 23:00",
+   "type": "Billing inquiry",
+   "tickets": 23
+  },
+  {
+   "hour": "2023-06-01 23:00",
+   "type": "Cancellation request",
+   "tickets": 20
+  },
+  {
+   "hour": "2023-06-01 23:00",
+   "type": "Product inquiry",
+   "tickets": 15
+  },
+  {
+   "hour": "2023-06-01 23:00",
+   "type": "Refund request",
+   "tickets": 16
+  },
+  {
+   "hour": "2023-06-01 23:00",
+   "type": "Technical issue",
+   "tickets": 22
+  },
+  {
+   "hour": "2023-06-02 00:00",
+   "type": "Billing inquiry",
+   "tickets": 10
+  },
+  {
+   "hour": "2023-06-02 00:00",
+   "type": "Cancellation request",
+   "tickets": 5
+  },
+  {
+   "hour": "2023-06-02 00:00",
+   "type": "Product inquiry",
+   "tickets": 9
+  },
+  {
+   "hour": "2023-06-02 00:00",
+   "type": "Refund request",
+   "tickets": 9
+  },
+  {
+   "hour": "2023-06-02 00:00",
+   "type": "Technical issue",
+   "tickets": 5
+  }
+ ],
+ "tickets_by_purchase_month": [
+  {
+   "month": "2020-01",
+   "tickets": 377
+  },
+  {
+   "month": "2020-02",
+   "tickets": 376
+  },
+  {
+   "month": "2020-03",
+   "tickets": 324
+  },
+  {
+   "month": "2020-04",
+   "tickets": 354
+  },
+  {
+   "month": "2020-05",
+   "tickets": 322
+  },
+  {
+   "month": "2020-06",
+   "tickets": 358
+  },
+  {
+   "month": "2020-07",
+   "tickets": 366
+  },
+  {
+   "month": "2020-08",
+   "tickets": 327
+  },
+  {
+   "month": "2020-09",
+   "tickets": 369
+  },
+  {
+   "month": "2020-10",
+   "tickets": 373
+  },
+  {
+   "month": "2020-11",
+   "tickets": 340
+  },
+  {
+   "month": "2020-12",
+   "tickets": 350
+  },
+  {
+   "month": "2021-01",
+   "tickets": 359
+  },
+  {
+   "month": "2021-02",
+   "tickets": 339
+  },
+  {
+   "month": "2021-03",
+   "tickets": 348
+  },
+  {
+   "month": "2021-04",
+   "tickets": 364
+  },
+  {
+   "month": "2021-05",
+   "tickets": 379
+  },
+  {
+   "month": "2021-06",
+   "tickets": 320
+  },
+  {
+   "month": "2021-07",
+   "tickets": 361
+  },
+  {
+   "month": "2021-08",
+   "tickets": 364
+  },
+  {
+   "month": "2021-09",
+   "tickets": 327
+  },
+  {
+   "month": "2021-10",
+   "tickets": 362
+  },
+  {
+   "month": "2021-11",
+   "tickets": 364
+  },
+  {
+   "month": "2021-12",
+   "tickets": 346
+  }
+ ],
+ "csat_distribution": [
+  {
+   "rating": 1,
+   "tickets": 553
+  },
+  {
+   "rating": 2,
+   "tickets": 549
+  },
+  {
+   "rating": 3,
+   "tickets": 580
+  },
+  {
+   "rating": 4,
+   "tickets": 543
+  },
+  {
+   "rating": 5,
+   "tickets": 544
+  }
+ ],
+ "csat_by_type": [
+  {
+   "label": "Billing inquiry",
+   "mean": 3.028,
+   "tickets": 544
+  },
+  {
+   "label": "Cancellation request",
+   "mean": 3.029,
+   "tickets": 516
+  },
+  {
+   "label": "Product inquiry",
+   "mean": 3.017,
+   "tickets": 533
+  },
+  {
+   "label": "Refund request",
+   "mean": 2.935,
+   "tickets": 596
+  },
+  {
+   "label": "Technical issue",
+   "mean": 2.959,
+   "tickets": 580
+  }
+ ],
+ "csat_by_channel": [
+  {
+   "label": "Chat",
+   "mean": 3.083,
+   "tickets": 674
+  },
+  {
+   "label": "Email",
+   "mean": 2.964,
+   "tickets": 720
+  },
+  {
+   "label": "Phone",
+   "mean": 2.952,
+   "tickets": 691
+  },
+  {
+   "label": "Social media",
+   "mean": 2.969,
+   "tickets": 684
+  }
+ ],
+ "csat_by_priority": [
+  {
+   "label": "Critical",
+   "mean": 2.959,
+   "tickets": 726
+  },
+  {
+   "label": "High",
+   "mean": 2.983,
+   "tickets": 705
+  },
+  {
+   "label": "Low",
+   "mean": 3.053,
+   "tickets": 644
+  },
+  {
+   "label": "Medium",
+   "mean": 2.977,
+   "tickets": 694
+  }
+ ],
+ "csat_heatmap": [
+  {
+   "type": "Billing inquiry",
+   "channel": "Chat",
+   "mean_csat": 3.131,
+   "tickets": 137
+  },
+  {
+   "type": "Billing inquiry",
+   "channel": "Email",
+   "mean_csat": 3.03,
+   "tickets": 134
+  },
+  {
+   "type": "Billing inquiry",
+   "channel": "Phone",
+   "mean_csat": 2.92,
+   "tickets": 137
+  },
+  {
+   "type": "Billing inquiry",
+   "channel": "Social media",
+   "mean_csat": 3.029,
+   "tickets": 136
+  },
+  {
+   "type": "Cancellation request",
+   "channel": "Chat",
+   "mean_csat": 3.074,
+   "tickets": 136
+  },
+  {
+   "type": "Cancellation request",
+   "channel": "Email",
+   "mean_csat": 2.864,
+   "tickets": 154
+  },
+  {
+   "type": "Cancellation request",
+   "channel": "Phone",
+   "mean_csat": 3.0,
+   "tickets": 118
+  },
+  {
+   "type": "Cancellation request",
+   "channel": "Social media",
+   "mean_csat": 3.241,
+   "tickets": 108
+  },
+  {
+   "type": "Product inquiry",
+   "channel": "Chat",
+   "mean_csat": 3.078,
+   "tickets": 116
+  },
+  {
+   "type": "Product inquiry",
+   "channel": "Email",
+   "mean_csat": 2.937,
+   "tickets": 126
+  },
+  {
+   "type": "Product inquiry",
+   "channel": "Phone",
+   "mean_csat": 3.095,
+   "tickets": 147
+  },
+  {
+   "type": "Product inquiry",
+   "channel": "Social media",
+   "mean_csat": 2.958,
+   "tickets": 144
+  },
+  {
+   "type": "Refund request",
+   "channel": "Chat",
+   "mean_csat": 2.986,
+   "tickets": 143
+  },
+  {
+   "type": "Refund request",
+   "channel": "Email",
+   "mean_csat": 2.994,
+   "tickets": 171
+  },
+  {
+   "type": "Refund request",
+   "channel": "Phone",
+   "mean_csat": 2.804,
+   "tickets": 138
+  },
+  {
+   "type": "Refund request",
+   "channel": "Social media",
+   "mean_csat": 2.938,
+   "tickets": 144
+  },
+  {
+   "type": "Technical issue",
+   "channel": "Chat",
+   "mean_csat": 3.148,
+   "tickets": 142
+  },
+  {
+   "type": "Technical issue",
+   "channel": "Email",
+   "mean_csat": 3.0,
+   "tickets": 135
+  },
+  {
+   "type": "Technical issue",
+   "channel": "Phone",
+   "mean_csat": 2.94,
+   "tickets": 151
+  },
+  {
+   "type": "Technical issue",
+   "channel": "Social media",
+   "mean_csat": 2.763,
+   "tickets": 152
+  }
+ ],
+ "csat_trend": [
+  {
+   "hour": "2023-05-31 21:00",
+   "mean_csat": 3.5,
+   "tickets": 2
+  },
+  {
+   "hour": "2023-05-31 22:00",
+   "mean_csat": 2.781,
+   "tickets": 32
+  },
+  {
+   "hour": "2023-05-31 23:00",
+   "mean_csat": 2.846,
+   "tickets": 65
+  },
+  {
+   "hour": "2023-06-01 00:00",
+   "mean_csat": 3.393,
+   "tickets": 89
+  },
+  {
+   "hour": "2023-06-01 01:00",
+   "mean_csat": 2.928,
+   "tickets": 111
+  },
+  {
+   "hour": "2023-06-01 02:00",
+   "mean_csat": 2.879,
+   "tickets": 124
+  },
+  {
+   "hour": "2023-06-01 03:00",
+   "mean_csat": 2.883,
+   "tickets": 111
+  },
+  {
+   "hour": "2023-06-01 04:00",
+   "mean_csat": 2.951,
+   "tickets": 103
+  },
+  {
+   "hour": "2023-06-01 05:00",
+   "mean_csat": 2.941,
+   "tickets": 102
+  },
+  {
+   "hour": "2023-06-01 06:00",
+   "mean_csat": 3.215,
+   "tickets": 135
+  },
+  {
+   "hour": "2023-06-01 07:00",
+   "mean_csat": 3.042,
+   "tickets": 142
+  },
+  {
+   "hour": "2023-06-01 08:00",
+   "mean_csat": 2.991,
+   "tickets": 116
+  },
+  {
+   "hour": "2023-06-01 09:00",
+   "mean_csat": 3.27,
+   "tickets": 100
+  },
+  {
+   "hour": "2023-06-01 10:00",
+   "mean_csat": 3.058,
+   "tickets": 120
+  },
+  {
+   "hour": "2023-06-01 11:00",
+   "mean_csat": 2.894,
+   "tickets": 132
+  },
+  {
+   "hour": "2023-06-01 12:00",
+   "mean_csat": 2.871,
+   "tickets": 93
+  },
+  {
+   "hour": "2023-06-01 13:00",
+   "mean_csat": 2.739,
+   "tickets": 111
+  },
+  {
+   "hour": "2023-06-01 14:00",
+   "mean_csat": 3.098,
+   "tickets": 123
+  },
+  {
+   "hour": "2023-06-01 15:00",
+   "mean_csat": 3.033,
+   "tickets": 122
+  },
+  {
+   "hour": "2023-06-01 16:00",
+   "mean_csat": 2.984,
+   "tickets": 127
+  },
+  {
+   "hour": "2023-06-01 17:00",
+   "mean_csat": 2.877,
+   "tickets": 114
+  },
+  {
+   "hour": "2023-06-01 18:00",
+   "mean_csat": 3.134,
+   "tickets": 119
+  },
+  {
+   "hour": "2023-06-01 19:00",
+   "mean_csat": 2.89,
+   "tickets": 109
+  },
+  {
+   "hour": "2023-06-01 20:00",
+   "mean_csat": 2.884,
+   "tickets": 112
+  },
+  {
+   "hour": "2023-06-01 21:00",
+   "mean_csat": 3.062,
+   "tickets": 112
+  },
+  {
+   "hour": "2023-06-01 22:00",
+   "mean_csat": 3.0,
+   "tickets": 68
+  },
+  {
+   "hour": "2023-06-01 23:00",
+   "mean_csat": 2.926,
+   "tickets": 54
+  },
+  {
+   "hour": "2023-06-02 00:00",
+   "mean_csat": 2.857,
+   "tickets": 21
+  }
+ ],
+ "resolution_by_channel": [
+  {
+   "label": "Chat",
+   "mean_hours": 7.7,
+   "median_hours": 6.92,
+   "tickets": 674,
+   "pct_before_first": 47.33
+  },
+  {
+   "label": "Email",
+   "mean_hours": 7.9,
+   "median_hours": 6.76,
+   "tickets": 720,
+   "pct_before_first": 48.06
+  },
+  {
+   "label": "Phone",
+   "mean_hours": 7.43,
+   "median_hours": 6.4,
+   "tickets": 691,
+   "pct_before_first": 52.68
+  },
+  {
+   "label": "Social media",
+   "mean_hours": 7.93,
+   "median_hours": 6.94,
+   "tickets": 684,
+   "pct_before_first": 49.12
+  }
+ ],
+ "resolution_by_type": [
+  {
+   "label": "Billing inquiry",
+   "mean_hours": 7.24,
+   "median_hours": 5.61,
+   "tickets": 544,
+   "pct_before_first": 49.82
+  },
+  {
+   "label": "Cancellation request",
+   "mean_hours": 8.07,
+   "median_hours": 6.9,
+   "tickets": 516,
+   "pct_before_first": 48.64
+  },
+  {
+   "label": "Product inquiry",
+   "mean_hours": 7.65,
+   "median_hours": 6.77,
+   "tickets": 533,
+   "pct_before_first": 51.78
+  },
+  {
+   "label": "Refund request",
+   "mean_hours": 8.06,
+   "median_hours": 6.99,
+   "tickets": 596,
+   "pct_before_first": 48.99
+  },
+  {
+   "label": "Technical issue",
+   "mean_hours": 7.68,
+   "median_hours": 6.76,
+   "tickets": 580,
+   "pct_before_first": 47.41
+  }
+ ],
+ "resolution_by_priority": [
+  {
+   "label": "Critical",
+   "mean_hours": 7.56,
+   "median_hours": 6.55,
+   "tickets": 726,
+   "pct_before_first": 48.48
+  },
+  {
+   "label": "High",
+   "mean_hours": 8.2,
+   "median_hours": 7.28,
+   "tickets": 705,
+   "pct_before_first": 49.65
+  },
+  {
+   "label": "Low",
+   "mean_hours": 7.86,
+   "median_hours": 6.98,
+   "tickets": 644,
+   "pct_before_first": 48.14
+  },
+  {
+   "label": "Medium",
+   "mean_hours": 7.36,
+   "median_hours": 6.18,
+   "tickets": 694,
+   "pct_before_first": 50.86
+  }
+ ]
+}
