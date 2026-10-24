@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/403405341639653148/76f9dcad85ba4384ac36ba9e20325b1d/artifacts
+end_time: 1792841796223
+entry_point_name: ''
+experiment_id: '403405341639653148'
+lifecycle_stage: active
+run_id: 76f9dcad85ba4384ac36ba9e20325b1d
+run_name: distilbert_hf_trainer_search
+run_uuid: 76f9dcad85ba4384ac36ba9e20325b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792841795959
+status: 3
+tags: []
+user_id: Nayeem

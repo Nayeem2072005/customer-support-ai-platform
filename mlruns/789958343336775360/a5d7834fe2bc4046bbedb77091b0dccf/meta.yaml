@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/789958343336775360/a5d7834fe2bc4046bbedb77091b0dccf/artifacts
+end_time: 1792828028453
+entry_point_name: ''
+experiment_id: '789958343336775360'
+lifecycle_stage: active
+run_id: a5d7834fe2bc4046bbedb77091b0dccf
+run_name: register_ticket_type_distilbert
+run_uuid: a5d7834fe2bc4046bbedb77091b0dccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792828027633
+status: 3
+tags: []
+user_id: Nayeem

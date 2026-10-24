@@ -1,0 +1,8 @@
+aliases:
+  production: '1'
+creation_timestamp: 1792828007343
+description: 'Ticket priority classifier served by api/main.py (Optuna-tuned LightGBM,
+  notebook 06). Test accuracy 0.249 against a 0.265 majority-class baseline: no better
+  than chance on this dataset.'
+last_updated_timestamp: 1792828007809
+name: ticket-priority-lightgbm

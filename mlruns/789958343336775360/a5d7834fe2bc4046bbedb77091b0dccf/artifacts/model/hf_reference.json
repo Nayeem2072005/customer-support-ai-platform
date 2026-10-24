@@ -1,0 +1,15 @@
+{
+  "huggingface_repo": "Nxm11/customer-support-distilbert",
+  "weights_file": "model.safetensors (268 MB, hosted on the Hugging Face Hub)",
+  "base_model": "distilbert-base-uncased",
+  "label_order": [
+    "Billing inquiry",
+    "Cancellation request",
+    "Product inquiry",
+    "Refund request",
+    "Technical issue"
+  ],
+  "max_length": 128,
+  "input_text": "Ticket Subject + '. ' + Ticket Description (raw text)",
+  "why_a_reference": "GitHub rejects files over 100 MB, so the weights are not copied into mlruns."
+}

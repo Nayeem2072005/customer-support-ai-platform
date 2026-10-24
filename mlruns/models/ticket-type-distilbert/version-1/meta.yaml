@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1792828028559
+current_stage: None
+description: null
+last_updated_timestamp: 1792828028559
+name: ticket-type-distilbert
+run_id: a5d7834fe2bc4046bbedb77091b0dccf
+run_link: null
+source: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/789958343336775360/a5d7834fe2bc4046bbedb77091b0dccf/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/789958343336775360/a5d7834fe2bc4046bbedb77091b0dccf/artifacts/model
+user_id: null
+version: 1

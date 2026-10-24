@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/789958343336775360/fec5d250e31f4655af3f1adf073f67a9/artifacts
+end_time: 1792828007094
+entry_point_name: ''
+experiment_id: '789958343336775360'
+lifecycle_stage: active
+run_id: fec5d250e31f4655af3f1adf073f67a9
+run_name: register_ticket_priority_lightgbm
+run_uuid: fec5d250e31f4655af3f1adf073f67a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792827969236
+status: 3
+tags: []
+user_id: Nayeem

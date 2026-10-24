@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1792828027157
+current_stage: None
+description: null
+last_updated_timestamp: 1792828027157
+name: resolution-time-xgboost
+run_id: 33059fb891d34d9e98426846ce324cc2
+run_link: null
+source: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/789958343336775360/33059fb891d34d9e98426846ce324cc2/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/CHARU/OneDrive/Desktop/Final Project/notebooks/../mlruns/789958343336775360/33059fb891d34d9e98426846ce324cc2/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,7 @@
+aliases:
+  production: '1'
+creation_timestamp: 1792828026952
+description: 'Resolution-time regressor served by api/main.py (Optuna-tuned XGBoost,
+  notebook 09). Test R2 of -0.02: no better than predicting the average.'
+last_updated_timestamp: 1792828027499
+name: resolution-time-xgboost
